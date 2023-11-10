@@ -40,7 +40,7 @@ async def upgrade(bot,update):
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='http://t.me/manishraii')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://t.me/thespeedmoviess')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/My-Upi-ID-10-17')
             ],
                     [
                         InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://t.me/thespeedmoviess'),
